@@ -28,7 +28,7 @@ Responsibilities:
 * Сontrol and supervision of all business operations of the enterprise
 * Setting tasks for employees and monitoring performance
 * Signing new customer contracts;<br>
-<br>
+
 *03.2014 - 04.2015*, **OOO "BDC ELECTRONIC"**<br>
 Position: Sales-manager<br>
 Responsibilities: 
